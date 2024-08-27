@@ -22,10 +22,10 @@ Desenvolver um Agente inteligente capaz de identificar placas de carro usando pr
 
 ![img01](./assets/images/code-plate-identif.png)
 
-<video src="./assets/videos/prototipo-cnn.mp4" width="900" height="450" controls></video>
+<video src="./assets/videos/prototipo-cnn-edit.mp4" width="900" height="450" controls></video>
 
 - Algoritmo de Yolo
 
 ![img02](./assets/images/code03.png)
 
-<video src="./assets/videos/prototipo-yolo.mp4" width="900" height="450" controls></video>
+<video src="./assets/videos/prototipo-yolo-edit.mp4" width="900" height="450" controls></video>
